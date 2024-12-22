@@ -1,0 +1,602 @@
+[
+    {
+        "nameZh": "海港城",
+        "name": "Harbour City",
+        "metroStation": "Tsim Sha Tsui",
+        "reviewCount": 1092,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "5 Canton Road, Yau Tsim Mong District, Kowloon"
+    },
+    {
+        "nameZh": "东荟城名店仓",
+        "name": "Citygate Outlets",
+        "metroStation": "Tung Chung",
+        "reviewCount": 1010,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["outlet", "fashion", "budget"],
+        "location": "20 Tat Tung Road, Tung Chung, N.T."
+    },
+    {
+        "nameZh": "时代广场",
+        "name": "Times Square",
+        "metroStation": "Causeway Bay",
+        "reviewCount": 920,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "1 Matheson Street, Causeway Bay, Hong Kong"
+    },
+    {
+        "nameZh": "香港国际金融中心商场",
+        "name": "IFC Mall",
+        "metroStation": "Kowloon",
+        "reviewCount": 1080,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "8 Finance Street, Central, Hong Kong"
+    },
+    {
+        "nameZh": "香港朗豪坊",
+        "name": "Langham Place",
+        "metroStation": "Mong Kok",
+        "reviewCount": 608,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 23:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "8 Argyle Street, Mong Kok, Kowloon"
+    },
+    {
+        "nameZh": "K11 MUSEA",
+        "name": "K11 MUSEA",
+        "metroStation": "Tsim Sha Tsui",
+        "reviewCount": 144,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment", "culture"],
+        "location": "18 Salisbury Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "1881公馆",
+        "name": "1881 Heritage",
+        "metroStation": "Tsim Sha Tsui",
+        "reviewCount": 481,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment", "culture"],
+        "location": "2A Canton Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "圆方广场",
+        "name": "Elements Mall",
+        "metroStation": "Austin",
+        "reviewCount": 386,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "1 Austin Road West, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "太古广场",
+        "name": "Pacific Place",
+        "metroStation": "Admiralty",
+        "reviewCount": 348,
+        "reviewScore": 4.0,
+        "operatingHours": "12:00 - 23:59",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "88 Queensway, Admiralty, Hong Kong"
+    },
+    {
+        "nameZh": "信和中心",
+        "name": "Sino Center",
+        "metroStation": "Mong Kok",
+        "reviewCount": 92,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "582 Nathan Road, Mong Kok, Kowloon"
+    },
+    {
+        "nameZh": "莫科",
+        "name": "MOKO",
+        "metroStation": "Mong Kok East",
+        "reviewCount": 170,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "193 Prince Edward Road West, Mong Kok, Kowloon"
+    },
+    {
+        "nameZh": "葵涌广场",
+        "name": "Kwai Chung Plaza",
+        "metroStation": "Kwai Fong",
+        "reviewCount": 114,
+        "reviewScore": 4.0,
+        "operatingHours": "11:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "1-3 Kwai Cheong Road, Kwai Chung, N.T."
+    },
+    {
+        "nameZh": "崇光百货",
+        "name": "Sogo Mall",
+        "metroStation": "Causeway Bay",
+        "reviewCount": 382,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "555 Hennessy Road, Causeway Bay, Hong Kong"
+    },
+    {
+        "nameZh": "黄金电脑商场",
+        "name": "Golden Computer Arcade",
+        "metroStation": "Sham Shui Po",
+        "reviewCount": 180,
+        "reviewScore": 4.0,
+        "operatingHours": "10:30 - 22:30",
+        "feature": ["specialty", "electronics"],
+        "location": "168 Sai Yeung Choi Street South, Sham Shui Po, Kowloon"
+    },
+    {
+        "nameZh": "太古城中心",
+        "name": "Cityplaza",
+        "metroStation": "Tai Koo",
+        "reviewCount": 140,
+        "reviewScore": 4.0,
+        "operatingHours": "07:00 - 23:59",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "18 Taikoo Shing Road, Taikoo Shing, Hong Kong"
+    },
+    {
+        "nameZh": "黄埔新天地",
+        "name": "The Whampoa",
+        "metroStation": "Whampoa",
+        "reviewCount": 93,
+        "reviewScore": 4.0,
+        "operatingHours": "00:00 - 23:59",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "7 Whampoa Street, Hung Hom, Kowloon"
+    },
+    {
+        "nameZh": "希慎广场",
+        "name": "Hysen Place",
+        "metroStation": "Causeway Bay",
+        "reviewCount": 269,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "500 Hennessy Road, Causeway Bay, Hong Kong"
+    },
+    {
+        "nameZh": "iSQUARE国际广场购物中心",
+        "name": "iSQUARE",
+        "metroStation": "Tsim Sha Tsui",
+        "reviewCount": 254,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "63 Nathan Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "旺角中心商场",
+        "name": "Argyle Centre Shopping Mall",
+        "metroStation": "Yau Ma Tei",
+        "reviewCount": 95,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "688 Nathan Road, Mong Kok, Kowloon"
+    },
+    {
+        "nameZh": "又一城",
+        "name": "Festival Walk",
+        "metroStation": "Kowloon Tong",
+        "reviewCount": 215,
+        "reviewScore": 4.0,
+        "operatingHours": "07:00 - 23:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "80 Tat Chee Avenue, Kowloon Tong, Kowloon"
+    },
+    {
+        "nameZh": "Apm",
+        "name": "Apm",
+        "metroStation": "Kwun Tong",
+        "reviewCount": 149,
+        "reviewScore": 4.0,
+        "operatingHours": "12:00 - 02:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "418 Kwun Tong Road, Kwun Tong, Kowloon"
+    },
+    {
+        "nameZh": "新城市中央广场",
+        "name": "New Town Plaza",
+        "metroStation": "Sha Tin",
+        "reviewCount": 237,
+        "reviewScore": 4.0,
+        "operatingHours": "11:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "18 Sha Tin Centre Street, Sha Tin, N.T."
+    },
+    {
+        "nameZh": "新海怡广场",
+        "name": "Horizon Plaza",
+        "metroStation": "Lei Tung",
+        "reviewCount": 129,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 19:00",
+        "feature": ["outlet", "fashion", "budget"],
+        "location": "2 Lee Wing Street, Ap Lei Chau, Hong Kong"
+    },
+    {
+        "nameZh": "荃湾广场",
+        "name": "Tsuen Wan Plaza",
+        "metroStation": "Tsuen Wan West",
+        "reviewCount": 85,
+        "reviewScore": 4.0,
+        "operatingHours": "08:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "4-30 Tsuen Wan Market Street, Tsuen Wan, N.T."
+    },
+    {
+        "nameZh": "奥海城",
+        "name": "Olympian City",
+        "metroStation": "Olympic",
+        "reviewCount": 119,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "1 Austin Road West, Kowloon"
+    },
+    {
+        "nameZh": "The ONE",
+        "name": "The ONE",
+        "metroStation": "Tsim Sha Tsui",
+        "reviewCount": 189,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "100 Nathan Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "置地广场",
+        "name": "LANDMARK",
+        "metroStation": "Central",
+        "reviewCount": 129,
+        "reviewScore": 4.0,
+        "operatingHours": "07:00 - 23:59",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "15 Queen's Road Central, Central, Hong Kong"
+    },
+    {
+        "nameZh": "南丰纱厂",
+        "name": "The Mills",
+        "metroStation": "Tsuen Wan West",
+        "reviewCount": 83,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "culture"],
+        "location": "45 Pak Tin Par Street, Tsuen Wan, N.T."
+    },
+    {
+        "nameZh": "环球贸易广场",
+        "name": "International Commerce Centre",
+        "metroStation": "Kowloon",
+        "reviewCount": 91,
+        "reviewScore": 4.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "1 Austin Road West, Kowloon"
+    },
+    {
+        "nameZh": "湾仔电脑城",
+        "name": "Wan Chai Computer Center",
+        "metroStation": "Wan Chai",
+        "reviewCount": 138,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 21:00",
+        "feature": ["specialty", "electronics"],
+        "location": "130 Hennessy Road, Wan Chai, Hong Kong"
+    },
+    {
+        "nameZh": "青衣城",
+        "name": "Maritime Square",
+        "metroStation": "Tsing Yi",
+        "reviewCount": 94,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "33 Tsing Yi Road, Tsing Yi, N.T."
+    },
+    {
+        "nameZh": "西九龙中心",
+        "name": "Dragon Centre",
+        "metroStation": "Sham Shui Po",
+        "reviewCount": 100,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "37K Yen Chow Street, Sham Shui Po, Kowloon"
+    },
+    {
+        "nameZh": "荷里活广场",
+        "name": "Hollywood Plaza",
+        "metroStation": "Diamond Hill",
+        "reviewCount": 110,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "610 Nathan Road, Diamond Hill, Kowloon"
+    },
+    {
+        "nameZh": "长沙湾道时装街",
+        "name": "Cheung Sha Wan Road Fashion Street",
+        "metroStation": "Sham Shui Po",
+        "reviewCount": 33,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 21:00",
+        "feature": ["specialty", "fashion", "budget"],
+        "location": "Cheung Sha Wan Road, Sham Shui Po, Kowloon"
+    },
+    {
+        "nameZh": "Yoho Mall",
+        "name": "Yoho Mall",
+        "metroStation": "Yuen Long",
+        "reviewCount": 98,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "9 Yuen Long Street, Yuen Long, N.T."
+    },
+    {
+        "nameZh": "悦来坊",
+        "name": "Panda Place",
+        "metroStation": "Tai Wo Hau",
+        "reviewCount": 30,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "3/F, 33 Tai Wo Hau Road, Kwai Chung, N.T."
+    },
+    {
+        "nameZh": "D2 Place",
+        "name": "D2 Place",
+        "metroStation": "Lai Chi Kok",
+        "reviewCount": 45,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "9 Cheung Yee Street, Lai Chi Kok, Kowloon"
+    },
+    {
+        "nameZh": "赤柱广场",
+        "name": "Stanley Plaza",
+        "metroStation": "Stanley",
+        "reviewCount": 148,
+        "reviewScore": 4.0,
+        "operatingHours": "07:00 - 23:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "23 Carmel Road, Stanley, Hong Kong"
+    },
+    {
+        "nameZh": "永安百货(尖东)",
+        "name": "Wing On Department Store (Tsim Sha Tsui East)",
+        "metroStation": "East Tsim Sha Tsui",
+        "reviewCount": 30,
+        "reviewScore": 3.5,
+        "operatingHours": "11:00 - 20:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "1/F, 1-3 Granville Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "永安百货(佐敦)",
+        "name": "Wing On Department Store (Jordan)",
+        "metroStation": "Jordan",
+        "reviewCount": 104,
+        "reviewScore": 3.5,
+        "operatingHours": "11:30 - 21:30",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "1/F, 1-3 Nathan Road, Jordan, Kowloon"
+    },
+    {
+        "nameZh": "荃新天地",
+        "name": "Tsuen Wan Plaza",
+        "metroStation": "Tsuen Wan",
+        "reviewCount": 73,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "4-30 Tsuen Wan Market Street, Tsuen Wan, N.T."
+    },
+    {
+        "nameZh": "佛罗伦斯小镇香港高级名店城",
+        "name": "Florentia Village Hong Kong Luxury Designer Outlet",
+        "metroStation": "Kwai Hing",
+        "reviewCount": 48,
+        "reviewScore": 3.0,
+        "operatingHours": "10:30 - 19:30",
+        "feature": ["outlet", "luxury", "fashion"],
+        "location": "1-3 Kwai Cheong Road, Kwai Chung, N.T."
+    },
+    {
+        "nameZh": "愉景新城",
+        "name": "Discovery Park",
+        "metroStation": "Tsuen Wan",
+        "reviewCount": 72,
+        "reviewScore": 3.5,
+        "operatingHours": "08:00 - 23:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "398 Castle Peak Road, Tsuen Wan, N.T."
+    },
+    {
+        "nameZh": "PopCorn",
+        "name": "PopCorn",
+        "metroStation": "Tseung Kwan O",
+        "reviewCount": 83,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "1 Tong Yin Street, Tseung Kwan O, N.T."
+    },
+    {
+        "nameZh": "屯门V City购物广场",
+        "name": "V City",
+        "metroStation": "Tuen Mun",
+        "reviewCount": 87,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "1 Tuen Mun Heung Sze Wui Road, Tuen Mun, N.T."
+    },
+    {
+        "nameZh": "皇室堡",
+        "name": "Windsor House",
+        "metroStation": "Causeway Bay",
+        "reviewCount": 66,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "311 Gloucester Road, Causeway Bay, Hong Kong"
+    },
+    {
+        "nameZh": "乐富广场",
+        "name": "Lok Fu Plaza",
+        "metroStation": "Lok Fu",
+        "reviewCount": 51,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "1/F, 198 Lok Fu Road, Lok Fu, Kowloon"
+    },
+    {
+        "nameZh": "尖沙咀中心商场",
+        "name": "Tsim Sha Tsui Centre Shopping Mall",
+        "metroStation": "East Tsim Sha Tsui",
+        "reviewCount": 38,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "66 Mody Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "彩星中心",
+        "name": "Prestige Tower",
+        "metroStation": "Tsim Sha Tsui",
+        "reviewCount": 29,
+        "reviewScore": 3.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "luxury", "fashion", "food", "entertainment"],
+        "location": "1/F, 1-3 Nathan Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "皆旺商场",
+        "name": "Richmond Shopping Arcade",
+        "metroStation": "Yau Ma Tei",
+        "reviewCount": 14,
+        "reviewScore": 4.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["specialty", "figurine"],
+        "location": "1/F, 1-3 Nathan Road, Yau Ma Tei, Kowloon"
+    },
+    {
+        "nameZh": "中港城",
+        "name": "China Hong Kong City",
+        "metroStation": "Austin",
+        "reviewCount": 115,
+        "reviewScore": 3.5,
+        "operatingHours": "10:30 - 21:30",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "33 Canton Road, Tsim Sha Tsui, Kowloon"
+    },
+    {
+        "nameZh": "新都会广场",
+        "name": "Metroplaza",
+        "metroStation": "Kwai Fong",
+        "reviewCount": 54,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "1 Kwai Fong Road, Kwai Chung, N.T."
+    },
+    {
+        "nameZh": "信德中心广场",
+        "name": "Shun Tak Centre Shopping Mall",
+        "metroStation": "Sheung Wan",
+        "reviewCount": 70,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 21:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "200 Connaught Road Central, Sheung Wan, Hong Kong"
+    },
+    {
+        "nameZh": "德福广场",
+        "name": "Telford Plaza",
+        "metroStation": "Kowloon Bay",
+        "reviewCount": 88,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "33 Wai Yip Street, Kowloon Bay, Kowloon"
+    },
+    {
+        "nameZh": "上水广场",
+        "name": "Landmark North",
+        "metroStation": "Sheung Shui",
+        "reviewCount": 43,
+        "reviewScore": 3.5,
+        "operatingHours": "09:30 - 10:00",
+        "feature": ["complex", "fashion", "food", "entertainment"],
+        "location": "1 Landmark North, Sheung Shui, N.T."
+    },
+    {
+        "nameZh": "创兴广场",
+        "name": "Chung Hing Square",
+        "metroStation": "Yau Ma Tei",
+        "reviewCount": 16,
+        "reviewScore": 4.0,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "601 Jordan Road, Yau Ma Tei, Kowloon"
+    },
+    {
+        "nameZh": "一田百货",
+        "name": "YATA Supermarket & Department Store",
+        "metroStation": "Sha Tin",
+        "reviewCount": 60,
+        "reviewScore": 4.0,
+        "operatingHours": "11:00 - 20:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "1-2/F, New Town Plaza 3, 2 Shatin Centre Street, Sha Tin, N.T."
+    },
+    {
+        "nameZh": "荃丰中心商场",
+        "name": "Tsuen Fung Centre Shopping Mall",
+        "metroStation": "Tsuen Wan",
+        "reviewCount": 16,
+        "reviewScore": 4.0,
+        "operatingHours": "13:00 - 23:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "138-168 Sai Lau Kok Road, Tsuen Wan, N.T."
+    },
+    {
+        "nameZh": "香港仔中心",
+        "name": "Aberdeen Centre Shopping Complex",
+        "metroStation": "Aberdeen",
+        "reviewCount": 18,
+        "reviewScore": 3.5,
+        "operatingHours": "10:00 - 22:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "11 Nan Ning Street, Aberdeen, Hong Kong"
+    },
+    {
+        "nameZh": "元朗广场",
+        "name": "Yuen Long Plaza",
+        "metroStation": "Long Ping",
+        "reviewCount": 47,
+        "reviewScore": 3.5,
+        "operatingHours": "06:30 - 23:00",
+        "feature": ["complex", "fashion", "food", "entertainment", "budget"],
+        "location": "249-251 Castle Peak Road, Yuen Long, N.T."
+    }
+]

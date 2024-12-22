@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Victoria Peak (The Peak)",
+    "nameZh": "维多利亚峰",
+    "reviewCount": 36268,
+    "location": "1 Lugard Road, The Peak, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["natural", "cultural"]
+  },
+  {
+    "name": "Tian Tan Buddha (Big Buddha)",
+    "nameZh": "天坛大佛",
+    "reviewCount": 14870,
+    "location": "Ngong Ping Road, Ngong Ping, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Ngong Ping 360",
+    "nameZh": "昂坪360",
+    "reviewCount": 7599,
+    "location": "11 Tat Tung Road, Tung Chung, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["activity", "cultural"]
+  },
+  {
+    "name": "Hong Kong Skyline",
+    "nameZh": "香港天际线",
+    "reviewCount": 14730,
+    "location": "Victoria Harbour, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Victoria Harbour",
+    "nameZh": "维多利亚港",
+    "reviewCount": 6289,
+    "location": "Victoria Harbour, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["natural", "cultural"]
+  },
+  {
+    "name": "Mongkok",
+    "nameZh": "旺角",
+    "reviewCount": 3202,
+    "location": "Mong Kok, Kowloon, Hong Kong, HK",
+    "metroStation": "Mong Kok",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Lantau Island",
+    "nameZh": "大屿山",
+    "reviewCount": 5601,
+    "location": "Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Tsim Sha Tsui",
+    "nameZh": "尖沙咀",
+    "reviewCount": 1810,
+    "location": "Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Chi Lin Nunnery",
+    "nameZh": "志莲净苑",
+    "reviewCount": 3369,
+    "location": "5 Chi Lin Drive, Diamond Hill, Kowloon, Hong Kong, HK",
+    "metroStation": "Diamond Hill",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Sky100 Hong Kong Observation Deck",
+    "nameZh": "天际100香港观景台",
+    "reviewCount": 2451,
+    "location": "100/F, International Commerce Centre, 1 Austin Road West, Kowloon, Hong Kong, HK",
+    "metroStation": "Kowloon",
+    "region": "Kowloon",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Lan Kwai Fong",
+    "nameZh": "兰桂坊",
+    "reviewCount": 1535,
+    "location": "Lan Kwai Fong, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Ten Thousand Buddhas Monastery (Man Fat Sze)",
+    "nameZh": "万佛寺",
+    "reviewCount": 2335,
+    "location": "220 Pai Tau Village, Sha Tin, New Territories, Hong Kong, HK",
+    "metroStation": "Sha Tin",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Tai O",
+    "nameZh": "大澳",
+    "reviewCount": 1741,
+    "location": "Tai O, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["natural", "cultural"]
+  },
+  {
+    "name": "Sik Sik Yuen Wong Tai Sin Temple",
+    "nameZh": "黄大仙祠",
+    "reviewCount": 1624,
+    "location": "2 Chuk Yuen Village, Wong Tai Sin, Kowloon, Hong Kong, HK",
+    "metroStation": "Wong Tai Sin",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Wan Chai",
+    "nameZh": "湾仔",
+    "reviewCount": 634,
+    "location": "Wan Chai, Hong Kong Island, HK",
+    "metroStation": "Wan Chai",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Tsim Sha Tsui Promenade",
+    "nameZh": "尖沙咀海滨长廊",
+    "reviewCount": 5282,
+    "location": "Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Causeway Bay",
+    "nameZh": "铜锣湾",
+    "reviewCount": 1190,
+    "location": "Causeway Bay, Hong Kong Island, HK",
+    "metroStation": "Causeway Bay",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Nathan Road",
+    "nameZh": "弥敦道",
+    "reviewCount": 2028,
+    "location": "Nathan Road, Kowloon, Hong Kong, HK",
+    "metroStation": "Jordan",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Avenue of the Stars",
+    "nameZh": "星光大道",
+    "reviewCount": 2062,
+    "location": "Avenue of Stars, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Po Lin (Precious Lotus) Monastery",
+    "nameZh": "宝莲寺",
+    "reviewCount": 2144,
+    "location": "Ngong Ping Road, Ngong Ping, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Times Square",
+    "nameZh": "时代广场",
+    "reviewCount": 918,
+    "location": "1 Matheson Street, Causeway Bay, Hong Kong Island, HK",
+    "metroStation": "Causeway Bay",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Sai Kung",
+    "nameZh": "西贡",
+    "reviewCount": 1280,
+    "location": "Sai Kung, New Territories, Hong Kong, HK",
+    "metroStation": "Hang Hau",
+    "region": "New Territories",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Stanley",
+    "nameZh": "赤柱",
+    "reviewCount": 3044,
+    "location": "Stanley, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["natural", "cultural"]
+  },
+  {
+    "name": "IFC Mall",
+    "nameZh": "国际金融中心商场",
+    "reviewCount": 1079,
+    "location": "8 Finance Street, Central, Hong Kong Island, HK",
+    "metroStation": "Hong Kong",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Tsz Shan Monastery",
+    "nameZh": "慈山寺",
+    "reviewCount": 231,
+    "location": "88 Universal Gate Rd, Tai Po, New Territories, Hong Kong, HK",
+    "metroStation": "Tai Po Market",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Soho",
+    "nameZh": "苏豪区",
+    "reviewCount": 970,
+    "location": "Soho, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Man Mo Temple",
+    "nameZh": "文武庙",
+    "reviewCount": 1124,
+    "location": "124-126 Hollywood Road, Sheung Wan, Hong Kong Island, HK",
+    "metroStation": "Sheung Wan",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Hong Kong Macau Ferry Terminal",
+    "nameZh": "港澳码头",
+    "reviewCount": 958,
+    "location": "Shun Tak Centre, 200 Connaught Road Central, Sheung Wan, Hong Kong Island, HK",
+    "metroStation": "Sheung Wan",
+    "region": "Hong Kong",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Sham Shui Po",
+    "nameZh": "深水埗",
+    "reviewCount": 495,
+    "location": "Sham Shui Po, Kowloon, Hong Kong, HK",
+    "metroStation": "Sham Shui Po",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Tsuen Wan",
+    "nameZh": "荃湾",
+    "reviewCount": 128,
+    "location": "Tsuen Wan, New Territories, Hong Kong, HK",
+    "metroStation": "Tsuen Wan",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Monster Building",
+    "nameZh": "怪兽大厦",
+    "reviewCount": 72,
+    "location": "2-32 Yik Cheong Building, Quarry Bay, Hong Kong Island, HK",
+    "metroStation": "Tai Koo",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "PMQ",
+    "nameZh": "元创方",
+    "reviewCount": 499,
+    "location": "35 Aberdeen Street, Central, Hong Kong Island, HK",
+    "metroStation": "Sheung Wan",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Hollywood Road",
+    "nameZh": "荷李活道",
+    "reviewCount": 290,
+    "location": "Hollywood Road, Sheung Wan, Hong Kong Island, HK",
+    "metroStation": "Sheung Wan",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Tung Chung",
+    "nameZh": "东涌",
+    "reviewCount": 171,
+    "location": "Tung Chung, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Mid-levels Escalator",
+    "nameZh": "中环至半山自动扶梯",
+    "reviewCount": 2668,
+    "location": "Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Hong Kong Observation Wheel",
+    "nameZh": "香港摩天轮",
+    "reviewCount": 468,
+    "location": "33 Man Kwong Street, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Tsim Sha Tsui East",
+    "nameZh": "尖沙咀东",
+    "reviewCount": 1242,
+    "location": "Tsim Sha Tsui East, Kowloon, Hong Kong, HK",
+    "metroStation": "East Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Flower Market Road",
+    "nameZh": "花墟道",
+    "reviewCount": 551,
+    "location": "Flower Market Road, Mong Kok, Kowloon, Hong Kong, HK",
+    "metroStation": "Prince Edward",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Peak Tower",
+    "nameZh": "山顶广场",
+    "reviewCount": 993,
+    "location": "118 Peak Road, The Peak, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Sheung Wan",
+    "nameZh": "上环",
+    "reviewCount": 328,
+    "location": "Sheung Wan, Hong Kong Island, HK",
+    "metroStation": "Sheung Wan",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Discovery Bay",
+    "nameZh": "愉景湾",
+    "reviewCount": 258,
+    "location": "Discovery Bay, Lantau Island, Hong Kong, HK",
+    "metroStation": "Sunny Bay",
+    "region": "Outlying Islands",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Kadoorie Farm and Botanical Gardens",
+    "nameZh": "嘉道理农场暨植物园",
+    "reviewCount": 198,
+    "location": "Lam Kam Road, Tai Po, New Territories, Hong Kong, HK",
+    "metroStation": "Tai Wo",
+    "region": "New Territories",
+    "feature": ["natural"]
+  },
+  {
+    "name": "St. John's Cathedral",
+    "nameZh": "圣约翰座堂",
+    "reviewCount": 266,
+    "location": "4-8 Garden Road, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Blue House",
+    "nameZh": "蓝屋",
+    "reviewCount": 20,
+    "location": "72 Stone Nullah Lane, Wan Chai, Hong Kong Island, HK",
+    "metroStation": "Wan Chai",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Former Kowloon-Canton Railway Clock Tower",
+    "nameZh": "前九龙火车站钟楼",
+    "reviewCount": 574,
+    "location": "Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Che Kung Temple",
+    "nameZh": "车公庙",
+    "reviewCount": 261,
+    "location": "Che Kung Miu Road, Tai Wai, Sha Tin, New Territories, Hong Kong, HK",
+    "metroStation": "Che Kung Temple",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Knutsford Terrace",
+    "nameZh": "诺士佛台",
+    "reviewCount": 213,
+    "location": "Knutsford Terrace, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Bobby's Fashions Hong Kong Bespoke Tailors",
+    "nameZh": "Bobby's 量身订制裁缝店",
+    "reviewCount": 410,
+    "location": "Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Bank of China Tower",
+    "nameZh": "中银大厦",
+    "reviewCount": 292,
+    "location": "1 Garden Road, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Diamond Hill",
+    "nameZh": "钻石山",
+    "reviewCount": 84,
+    "location": "Diamond Hill, Kowloon, Hong Kong, HK",
+    "metroStation": "Diamond Hill",
+    "region": "Kowloon",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Lion's Pavilion at The Peak",
+    "nameZh": "狮子亭",
+    "reviewCount": 527,
+    "location": "The Peak, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Yaumatei",
+    "nameZh": "油麻地",
+    "reviewCount": 170,
+    "location": "Yau Ma Tei, Kowloon, Hong Kong, HK",
+    "metroStation": "Yau Ma Tei",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Wisdom Path",
+    "nameZh": "心经简林",
+    "reviewCount": 136,
+    "location": "Ngong Ping, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["cultural", "natural"]
+  },
+  {
+    "name": "North Point",
+    "nameZh": "北角",
+    "reviewCount": 175,
+    "location": "North Point, Hong Kong Island, HK",
+    "metroStation": "North Point",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Tin Hau Temple",
+    "nameZh": "天后庙",
+    "reviewCount": 408,
+    "location": "Tin Hau Temple Road, Yau Ma Tei, Kowloon, Hong Kong, HK",
+    "metroStation": "Yau Ma Tei",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "The University of Hong Kong",
+    "nameZh": "香港大学",
+    "reviewCount": 131,
+    "location": "Pokfulam, Hong Kong Island, HK",
+    "metroStation": "HKU",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Fa Yuen Street",
+    "nameZh": "花园街",
+    "reviewCount": 224,
+    "location": "Fa Yuen Street, Mong Kok, Kowloon, Hong Kong, HK",
+    "metroStation": "Mong Kok",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Lion Rock",
+    "nameZh": "狮子山",
+    "reviewCount": 106,
+    "location": "Lion Rock Country Park, Kowloon, Hong Kong, HK",
+    "metroStation": "Wong Tai Sin",
+    "region": "Kowloon",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Kai Tak Cruise Terminal Park",
+    "nameZh": "启德邮轮码头公园",
+    "reviewCount": 191,
+    "location": "33 Shing Fung Road, Kowloon, Hong Kong, HK",
+    "metroStation": "Kowloon Bay",
+    "region": "Kowloon",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Aberdeen Fishing Village",
+    "nameZh": "香港仔渔村",
+    "reviewCount": 302,
+    "location": "Aberdeen Harbour, Hong Kong Island, HK",
+    "metroStation": "Wong Chuk Hang",
+    "region": "Hong Kong",
+    "feature": ["cultural", "natural"]
+  },
+  {
+    "name": "Central Plaza",
+    "nameZh": "中环广场",
+    "reviewCount": 119,
+    "location": "18 Harbour Road, Wan Chai, Hong Kong Island, HK",
+    "metroStation": "Wan Chai",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "International Finance Centre",
+    "nameZh": "国际金融中心",
+    "reviewCount": 219,
+    "location": "8 Finance Street, Central, Hong Kong Island, HK",
+    "metroStation": "Hong Kong",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "New Town Plaza",
+    "nameZh": "新城市广场",
+    "reviewCount": 237,
+    "location": "18 Sha Tin Centre Street, Sha Tin, New Territories, Hong Kong, HK",
+    "metroStation": "Sha Tin",
+    "region": "New Territories",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Shatin",
+    "nameZh": "沙田",
+    "reviewCount": 106,
+    "location": "Sha Tin, New Territories, Hong Kong, HK",
+    "metroStation": "Sha Tin",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Kowloon Mosque & Islamic Centre",
+    "nameZh": "九龙清真寺及伊斯兰中心",
+    "reviewCount": 163,
+    "location": "105 Nathan Road, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "HSBC Main Building",
+    "nameZh": "汇丰银行总部大楼",
+    "reviewCount": 267,
+    "location": "1 Queen's Road Central, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Montane Mansion",
+    "nameZh": "海山楼",
+    "reviewCount": 36,
+    "location": "1028 King's Road, Quarry Bay, Hong Kong Island, HK",
+    "metroStation": "Tai Koo",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Pottinger Street",
+    "nameZh": "砵典乍街",
+    "reviewCount": 81,
+    "location": "Pottinger Street, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Tsing Ma Bridge",
+    "nameZh": "青马大桥",
+    "reviewCount": 174,
+    "location": "Lantau Link, Ma Wan, Hong Kong, HK",
+    "metroStation": "Tsing Yi",
+    "region": "New Territories",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Hong Kong-Zhuhai-Macao Bridge",
+    "nameZh": "港珠澳大桥",
+    "reviewCount": 166,
+    "location": "Hong Kong Port, Lantau Island, Hong Kong, HK",
+    "metroStation": "Tung Chung",
+    "region": "Outlying Islands",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Noah's Ark Hong Kong",
+    "nameZh": "香港挪亚方舟",
+    "reviewCount": 197,
+    "location": "33 Pak Yan Road, Ma Wan, New Territories, Hong Kong, HK",
+    "metroStation": "Tsing Yi",
+    "region": "New Territories",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Kowloon Bay",
+    "nameZh": "九龙湾",
+    "reviewCount": 131,
+    "location": "Kowloon Bay, Kowloon, Hong Kong, HK",
+    "metroStation": "Kowloon Bay",
+    "region": "Kowloon",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "LANDMARK Hong Kong",
+    "nameZh": "置地广场",
+    "reviewCount": 129,
+    "location": "15 Queen's Road Central, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Ping Shan Heritage Trail",
+    "nameZh": "屏山文物径",
+    "reviewCount": 118,
+    "location": "Ping Shan, Yuen Long, New Territories, Hong Kong, HK",
+    "metroStation": "Tin Shui Wai",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "The Mills",
+    "nameZh": "南丰纱厂",
+    "reviewCount": 83,
+    "location": "45 Pak Tin Par Street, Tsuen Wan, New Territories, Hong Kong, HK",
+    "metroStation": "Tsuen Wan",
+    "region": "New Territories",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "International Commerce Centre",
+    "nameZh": "环球贸易广场",
+    "reviewCount": 91,
+    "location": "1 Austin Road West, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Kowloon",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Hopewell Centre",
+    "nameZh": "合和中心",
+    "reviewCount": 52,
+    "location": "183 Queen's Road East, Wan Chai, Hong Kong Island, HK",
+    "metroStation": "Wan Chai",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "The Hong Kong Catholic Cathedral of The Immaculate Conception",
+    "nameZh": "圣母无原罪主教座堂",
+    "reviewCount": 37,
+    "location": "16 Caine Road, Mid-Levels, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Long Ke Wan",
+    "nameZh": "浪茄湾",
+    "reviewCount": 26,
+    "location": "Sai Kung East Country Park, Sai Kung, New Territories, Hong Kong, HK",
+    "metroStation": "Hang Hau",
+    "region": "New Territories",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Aberdeen Harbour",
+    "nameZh": "香港仔海港",
+    "reviewCount": 215,
+    "location": "Aberdeen, Hong Kong Island, HK",
+    "metroStation": "Wong Chuk Hang",
+    "region": "Hong Kong",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Kennedy Town",
+    "nameZh": "坚尼地城",
+    "reviewCount": 13,
+    "location": "Kennedy Town, Hong Kong Island, HK",
+    "metroStation": "Kennedy Town",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Kwun Tong Waterfront Promenade",
+    "nameZh": "观塘海滨花园",
+    "reviewCount": 63,
+    "location": "Hoi Bun Road, Kwun Tong, Kowloon, Hong Kong, HK",
+    "metroStation": "Ngau Tau Kok",
+    "region": "Kowloon",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Admiralty",
+    "nameZh": "金钟",
+    "reviewCount": 129,
+    "location": "Admiralty, Hong Kong Island, HK",
+    "metroStation": "Admiralty",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Tuen Mun Town Plaza",
+    "nameZh": "屯门市广场",
+    "reviewCount": 115,
+    "location": "1 Tuen Shing Street, Tuen Mun, New Territories, Hong Kong, HK",
+    "metroStation": "Tuen Mun",
+    "region": "New Territories",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Hong Kong Coliseum (Coliseum)",
+    "nameZh": "香港体育馆",
+    "reviewCount": 94,
+    "location": "9 Cheong Wan Road, Hung Hom, Kowloon, Hong Kong, HK",
+    "metroStation": "Hung Hom",
+    "region": "Kowloon",
+    "feature": ["activity"]
+  },
+  {
+    "name": "Tin Hau Temple",
+    "nameZh": "天后庙",
+    "reviewCount": 23,
+    "location": "10 Tin Hau Temple Road, Causeway Bay, Hong Kong Island, HK",
+    "metroStation": "Tin Hau",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Lok Ma Chau",
+    "nameZh": "落马洲",
+    "reviewCount": 46,
+    "location": "Lok Ma Chau, New Territories, Hong Kong, HK",
+    "metroStation": "Sheung Shui",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Ma On Shan Promenade",
+    "nameZh": "马鞍山海滨长廊",
+    "reviewCount": 70,
+    "location": "Ma On Shan, New Territories, Hong Kong, HK",
+    "metroStation": "Ma On Shan",
+    "region": "New Territories",
+    "feature": ["natural"]
+  },
+  {
+    "name": "The Chinese University of Hong Kong",
+    "nameZh": "香港中文大学",
+    "reviewCount": 66,
+    "location": "18 Chak Cheung Street, Sha Tin, New Territories, Hong Kong, HK",
+    "metroStation": "University",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Rosary Church",
+    "nameZh": "玫瑰堂",
+    "reviewCount": 62,
+    "location": "125 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong, HK",
+    "metroStation": "Tsim Sha Tsui",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Lam Tsuen Wishing Tree",
+    "nameZh": "林村许愿树",
+    "reviewCount": 81,
+    "location": "Lam Tsuen, Tai Po, New Territories, Hong Kong, HK",
+    "metroStation": "Tai Wo",
+    "region": "New Territories",
+    "feature": ["natural"]
+  },
+  {
+    "name": "Hong Kong Hennessy Road",
+    "nameZh": "轩尼诗道",
+    "reviewCount": 109,
+    "location": "Hennessy Road, Wan Chai, Hong Kong Island, HK",
+    "metroStation": "Wan Chai",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Kwun Tong",
+    "nameZh": "观塘",
+    "reviewCount": 78,
+    "location": "Kwun Tong, Kowloon, Hong Kong, HK",
+    "metroStation": "Kwun Tong",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Yuen Yuen Institute",
+    "nameZh": "圆玄学院",
+    "reviewCount": 43,
+    "location": "Sam Dip Tam, Tsuen Wan, New Territories, Hong Kong, HK",
+    "metroStation": "Tsuen Wan",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Hong Kong Fenling Lianhe Market",
+    "nameZh": "粉岭联和墟",
+    "reviewCount": 20,
+    "location": "Luen Wo Hui, Fanling, New Territories, Hong Kong, HK",
+    "metroStation": "Fanling",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Graham Street Market",
+    "nameZh": "嘉咸街市集",
+    "reviewCount": 83,
+    "location": "Graham Street, Central, Hong Kong Island, HK",
+    "metroStation": "Central",
+    "region": "Hong Kong",
+    "feature": ["cultural", "activity"]
+  },
+  {
+    "name": "Hong Kong Monetary Authority",
+    "nameZh": "香港金融管理局",
+    "reviewCount": 48,
+    "location": "55/F, Two International Finance Centre, Central, Hong Kong Island, HK",
+    "metroStation": "Hong Kong",
+    "region": "Hong Kong",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Hong Kong Science Park",
+    "nameZh": "香港科学园",
+    "reviewCount": 42,
+    "location": "Pak Shek Kok, Tai Po, New Territories, Hong Kong, HK",
+    "metroStation": "University",
+    "region": "New Territories",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Kowloon Tong",
+    "nameZh": "九龙塘",
+    "reviewCount": 43,
+    "location": "Kowloon Tong, Kowloon, Hong Kong, HK",
+    "metroStation": "Kowloon Tong",
+    "region": "Kowloon",
+    "feature": ["cultural"]
+  },
+  {
+    "name": "Sai Kung Promenade and Seafood Street",
+    "nameZh": "西贡海滨长廊与海鲜街",
+    "reviewCount": 113,
+    "location": "Sai Kung, New Territories, Hong Kong, HK",
+    "metroStation": "Hang Hau",
+    "region": "New Territories",
+    "feature": ["natural", "activity"]
+  }
+]
