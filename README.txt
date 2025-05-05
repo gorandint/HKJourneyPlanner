@@ -1,4 +1,4 @@
-# HKJourneyPlanner
+HKJourneyPlanner
 
 This is the Hong Kong Journey Planner project by CS3343 Group 38.
 
